@@ -31,9 +31,9 @@ Projekt powstał z myślą o wyświetlaczu SSD1322, pojedynczym enkoderze, wyjś
 | TFT DC                   | 9        | Data/Command (SSD1322)             |
 | TFT CS                   | 10       | Chip Select                        |
 | TFT RST                  | 8        | Reset wyświetlacza                 |
-| Enkoder CLK (A)          | 2        | ENC_BTNR                           |
-| Enkoder DT (B)           | 1        | ENC_BTNL                           |
-| Enkoder SW (przycisk)    | 42       | ENC_BTNB                           |
+| Enkoder CLK (A)          | 41       | ENC_BTNR                           |
+| Enkoder DT (B)           | 40       | ENC_BTNL                           |
+| Enkoder SW (przycisk)    | 39       | ENC_BTNB                           |
 | IR odbiornik             | 14       | Pilot podczerwieni                 |
 | Piny 39, 40, 41          | –        | Wolne (były dla drugiego enkodera) |
 
@@ -48,4 +48,5 @@ Pełny tekst licencji: https://www.gnu.org/licenses/gpl-3.0.txt
 
 1. Sklonuj repozytorium:
    ```bash
+
    git clone https://github.com/TWOJ-NICK/Virtuoso.git
