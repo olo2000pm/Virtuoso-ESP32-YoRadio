@@ -9,5 +9,3 @@ Moja własna wersja radia opartego na yoRadio (Maestro fork).
 - Zmiana języka angielskiego na polski
 ### Licencja
 GPL-3.0 (oparte na oryginalnym projekcie https://github.com/e2002/yoradio)
-
-Więcej zdjęć i demo wkrótce.
