@@ -1,0 +1,25 @@
+Spolszczenie:
+
+*--------------------- 1 ----------------------------
+
+displayL10n_custom.h 
+
+przenieś do  
+
+Virtuoso_SSd1322_VXX\locale
+
+*--------------------- 2 ----------------------------
+
+glcdfont.c
+
+przenieś do
+
+Dokument\Arduino\libraries\Adafruit_GFX_Library
+
+*--------------------- 3 ---------------------------
+
+utf8RusGFX.h
+
+przenieś do
+
+Virtuoso_SSd1322_VXX\src\displays\tools
