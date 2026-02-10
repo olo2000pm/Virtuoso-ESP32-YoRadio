@@ -1,6 +1,5 @@
 # Virtuoso – autorskie radio internetowe ESP32
 
-TEST
 
 Moja własna wersja radia opartego na yoRadio (Maestro fork).
 
