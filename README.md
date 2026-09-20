@@ -3,6 +3,10 @@
 
 Moja własna wersja radia opartego na yoRadio (Maestro fork).
 
+## Uwaga
+
+To wcześniejsza, bazowa wersja projektu. Aktualnie sprzedawane radia Virtuoso mają dodatkowe funkcje (Bluetooth, DLNA, wzmacniacz mocy, aplikacja mobilna) niedostępne w tym repozytorium.
+
 ### Co dodałem / zmieniłem
 - Kompletnie nowa grafika, ikony, czcionki
 - Wygaszacz ekranu pokazuje: dużą godzinę, datę, dzień tygodnia i pogodę (z OpenWeatherMap)
