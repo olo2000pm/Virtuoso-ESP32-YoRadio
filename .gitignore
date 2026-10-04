@@ -1,0 +1,12 @@
+# Arduino / IDE
+build/
+*.bin
+*.elf
+*.map
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini

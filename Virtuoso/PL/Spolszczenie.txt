@@ -1,0 +1,13 @@
+Spolszczenie (polskie znaki na ekranie)
+
+Pliki w tym folderze (PL):
+
+1. displayL10n_custom.h  - polskie napisy; w projekcie jest juz w:  Virtuoso\locale\displayL10n_custom.h
+2. utf8RusGFX.h          - tablica znakow; w projekcie jest juz w:  Virtuoso\src\displays\tools\utf8RusGFX.h
+3. glcdfont.c            - czcionka; TRZEBA podmienic w bibliotece Adafruit GFX:
+
+     Dokumenty\Arduino\libraries\Adafruit_GFX_Library\glcdfont.c
+
+Najprosciej: uruchom skrypt  Virtuoso\Update_Polish_Font.ps1
+(prawy klik -> Uruchom za pomoca PowerShell). Skrypt kopiuje PL\glcdfont.c do biblioteki.
+Potem zrestartuj Arduino IDE i skompiluj projekt ponownie.
